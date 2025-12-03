@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Senior Software Developer currently working at **Mykare Health**, where I build high-impact **mobile and web applications** that improve healthcare access and financial inclusion. With **10+ years** of experience in software development (3+ years in **React Native**), I specialize in building scalable, high-performance apps with clean, maintainable code.
+I'm a passionate Senior Software Developer currently working at **Mykare Health**, where I build high-impact **mobile and web applications** that improve healthcare access and financial inclusion. With **10+ years** of experience in software development (4+ years in **React Native**), I specialize in building scalable, high-performance apps with clean, maintainable code.
 
 ---
 
